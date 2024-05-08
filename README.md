@@ -13,7 +13,7 @@
 
 **Current Role:**
 - 🌱 Currently a full stack developer with the following stack and tools:
-  - **Programming:** JavaScript (React.js), CSS (Tailwind)
+  - **Programming:** JavaScript (React.js, Node.js), CSS (Tailwind)
   - **Database:** PostgreSQL, MySQL
   - **Versioning Tools:** Git
 
