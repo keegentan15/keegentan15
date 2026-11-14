@@ -22,5 +22,5 @@
 
 **🚀 Software I've Built:**
 - 🦷 [GumlineFlow](https://gumlineflow.com/)
-- 🦴 [Vysio Flow](https://vysioflow.com/)
+- 🦴 [VysioFlow](https://vysioflow.com/)
 - 🐶 [Dachsie](https://dachsie.app/)
